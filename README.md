@@ -1,6 +1,8 @@
 # Minecraft for bears
 
 - setup
+  - `snap install htmlq`
+  - `apt install zip`
   - create a `minecraft` user to run the server
   - create `/opt/minecraft` to contain the server files
   - copy `/etc/` to the file system
